@@ -1,6 +1,6 @@
-"# SAIL-to-CGEN-Coding-Challenge-" 
+**SAIL-to-CGEN-Coding-Challenge**
 
-The attached python script () reads a structured YAML input file and converts it into a Lisp S-expression format. The transformation adheres to the semantics requested in the SAIL-to-CGEN coding challenge, handling dictionaries, lists, strings, booleans, numbers, and dates in a way that matches typical Lisp conventions.
+It reads a structured YAML input file and converts it into a Lisp S-expression format. The transformation adheres to the semantics requested in the SAIL-to-CGEN coding challenge, handling dictionaries, lists, strings, booleans, numbers, and dates in a way that matches typical Lisp conventions.
 
 Input: YAML file    
 Output : S-expression (Lisp-like) tree
